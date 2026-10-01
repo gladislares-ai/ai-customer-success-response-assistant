@@ -8,7 +8,7 @@ In Customer Success, responding quickly is important, but so is understanding wh
 
 I wanted to experiment with using AI to turn an unstructured customer message into something a Customer Success Manager can act on quickly.
 
-The goal isn't to replace the human relationship—it’s to give the CSM a useful starting point so they can spend more time on the customer and less time on repetitive work.
+The goal isn't to replace the human relationship, it’s to give the CSM a useful starting point so they can spend more time on the customer and less time on repetitive work.
 
 ## How it works
 
@@ -31,7 +31,7 @@ The workflow takes a customer message and asks AI to:
 
 **Issue:** Team members are having difficulty being invited to the platform.
 
-**Sentiment:** Frustrated
+**Sentiment:** Frustrated 
 
 **Urgency:** High — customer plans to begin using the product tomorrow.
 
