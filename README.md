@@ -1,4 +1,3 @@
-# ai-customer-success-response-assistant
 # AI Customer Success Response Assistant 🤖
 
 A small AI-powered workflow I created to explore how AI can support Customer Success teams by helping organize customer requests, identify urgency, and draft thoughtful responses.
